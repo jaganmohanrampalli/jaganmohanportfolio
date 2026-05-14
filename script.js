@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- Typing Animation ---
     const textElement = document.querySelector('.typing');
     if (textElement) {
-        const content = "Data Analyst & Front-End Developer"; // Hardcoded for animation
+        const content = "Data Analyst & Data Scientist"; // Hardcoded for animation
         textElement.textContent = '';
         let i = 0;
         
